@@ -1,0 +1,9 @@
+body {
+    font-size: responsive 25px 40px;
+}
+
+.canvas {
+    position: absolute;
+    z-index: -1;
+    display: none;
+}
