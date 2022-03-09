@@ -88,10 +88,10 @@ function reset() {
 	document.querySelector(".mainForm__Input").value = "";
 }
 
-const songOne = new Audio("./static/media/AirborneRobots.mp3");
-const songTwo = new Audio("./static/media/Cycles.mp3");
-const songThree = new Audio("./static/media/Hypersonic.mp3");
-const songFour = new Audio("./static/media/The7Seas.mp3");
+const songOne = new Audio("./static/media/music/AirborneRobots.mp3");
+const songTwo = new Audio("./static/media/music/Cycles.mp3");
+const songThree = new Audio("./static/media/music/Hypersonic.mp3");
+const songFour = new Audio("./static/media/music/The7Seas.mp3");
 const songList = [songOne, songTwo, songThree, songFour];
 
 
